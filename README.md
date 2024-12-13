@@ -2,9 +2,9 @@
 
 <div align="center" style="width:900px">
 
-![2024-12-1314-42-37-ezgif com-loop-count](https://github.com/user-attachments/assets/1473d237-8445-429c-af47-07dd0be32240)
-
-   
+<a href="https://a7portfolio.netlify.app/">
+  <img src="https://github.com/user-attachments/assets/1473d237-8445-429c-af47-07dd0be32240" alt="2024-12-1314-42-37-ezgif com-loop-count">
+</a>
 
 </div>
 
