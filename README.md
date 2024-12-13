@@ -2,7 +2,7 @@
 
 <div align="center" style="width:900px">
 
-![2024-12-1314-42-37-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/dd9691f0-f2f8-4f88-bdcd-9457421ee075)
+![2024-12-1314-42-37-ezgif com-loop-count](https://github.com/user-attachments/assets/1473d237-8445-429c-af47-07dd0be32240)
 
    
 
