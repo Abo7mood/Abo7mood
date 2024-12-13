@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0080ff,100:c2e8ff&text=Nasser%20Almuqbil&reversal=false&descAlignY=100&descAlign=49&descSize=20&textBg=false&fontAlignY=50&fontColor=0d173a&strokeWidth=0" width="100%">
 <div align="center">
   <a href="https://drive.google.com/uc?export=download&id=1X56Jb3LpQ5J2JCY7IqUFkxh3EPl-n2_S">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/path_to_thumbnail_image.png" alt="Video Preview" width="100%">
+    <img src="2024-12-1314-42-37-ezgif.com-video-to-gif-converter.gif" alt="Video Preview" width="100%">
   </a>
 </div>
+
 
 
 
