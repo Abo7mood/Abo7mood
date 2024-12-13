@@ -1,14 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0080ff,100:c2e8ff&text=Nasser%20Almuqbil&reversal=false&descAlignY=100&descAlign=49&descSize=20&textBg=false&fontAlignY=50&fontColor=0d173a&strokeWidth=0" width="100%">
 
 
-
-<div align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="2024-12-13 14-42-37.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
+![2024-12-1314-42-37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a17cb642-a16c-4f6a-8098-9b2f797f1b00)
 
 
 
