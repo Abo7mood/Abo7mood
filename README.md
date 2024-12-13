@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0080ff,100:c2e8ff&text=Nasser%20Almuqbil&reversal=false&descAlignY=100&descAlign=49&descSize=20&textBg=false&fontAlignY=50&fontColor=0d173a&strokeWidth=0" width="100%">
 
-<div align="center" style="width:150%">
+<div align="center" style="width:900px">
   
   ![2024-12-1314-42-37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9ccf7512-55f9-4fb9-a71d-1ebe338d8b1c)
 
