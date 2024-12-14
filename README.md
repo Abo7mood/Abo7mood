@@ -11,10 +11,11 @@
 
 
 
-<h1>Hi, I'm Nasser Almuqbil, My nickname is Abo7mood! <br/>
+<h1>Hi, I'm Nasser Almuqbil<br/>
+<h2> My nickname is Abo7mood</h2>
 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Game+Developer+(Past);Full-Stack+Developer+(Past);Currently+Undisclosed..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff7f00&center=true&vCenter=true&width=435&lines=Game+Developer+(Past);Full-Stack+Developer+(Past);Currently+Undisclosed..." alt="Typing SVG" />
 </p>
 
 
