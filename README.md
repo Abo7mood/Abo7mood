@@ -166,15 +166,15 @@
         <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js"/><br><strong>Express.js</strong>
       </td>
       <td>
-        <img src="https://i.postimg.cc/sDcsZtJb/download.png" width="65" height="65" border-radius="10px"   alt="Directus"/><br><strong>Directus</strong>
+        <img src="https://i.postimg.cc/sDcsZtJb/download.png" width="65" height="65"  alt="Directus"/><br><strong>Directus</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Logto"/><br><strong>Logto</strong>
+        <img src="https://i.postimg.cc/htc827Tf/download.jpg" width="65" height="65" alt="Logto"/><br><strong>Logto</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="tRPC"/><br><strong>tRPC</strong>
+        <img src="https://i.postimg.cc/fWY01RwX/download-1.png" width="65" height="65" alt="tRPC"/><br><strong>tRPC</strong>
       </td>
     </tr>
   </tbody>
@@ -187,27 +187,27 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="OutSystems"/><br><strong>OutSystems</strong>
+        <img src="https://i.postimg.cc/j2qK8cxM/download-2.png" width="65" height="65" alt="OutSystems"/><br><strong>OutSystems</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="ARIS"/><br><strong>ARIS</strong>
+        <img src="https://i.postimg.cc/zBJ95fsB/download-3.png" width="65" height="65" alt="ARIS"/><br><strong>ARIS</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Alfabet"/><br><strong>Alfabet</strong>
+        <img src="https://i.postimg.cc/zBJ95fsB/download-3.png" width="65" height="65" alt="Alfabet"/><br><strong>Alfabet</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Webflow"/><br><strong>Webflow</strong>
+        <img src="https://i.postimg.cc/0NdycbG2/download-4.png" width="65" height="65" alt="Webflow"/><br><strong>Webflow</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Budibase"/><br><strong>Budibase</strong>
+        <img src="https://i.postimg.cc/x1LmVjGB/download-5.png" width="65" height="65" alt="Budibase"/><br><strong>Budibase</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Power Automate"/><br><strong>Power Automate</strong>
+        <img src="https://i.postimg.cc/KjKNPSXF/download-2.jpg" width="65" height="65" alt="Power Automate"/><br><strong>Power Automate</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Power BI"/><br><strong>Power BI</strong>
+        <img src="https://i.postimg.cc/pTbLBK5S/download-1.jpg" width="65" height="65" alt="Power BI"/><br><strong>Power BI</strong>
       </td>
     </tr>
   </tbody>
@@ -223,7 +223,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br><strong>Docker</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br><strong>GitHub</strong>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br><strong>GitHub</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket"/><br><strong>Bitbucket</strong>
@@ -235,12 +235,15 @@
         <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/><br><strong>Netlify</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Plastic SCM"/><br><strong>Plastic SCM</strong>
+        <img src="https://i.postimg.cc/7PMsNDTP/download-3.jpg" width="65" height="65" alt="Plastic SCM"/><br><strong>Plastic SCM</strong>
+      </td>
+        <td>
+        <img src="https://i.postimg.cc/Pr0wpvrC/download-6.png" width="65" height="65" alt="Plastic SCM"/><br><strong>Playfab</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="SiteGround"/><br><strong>SiteGround</strong>
+        <img src="https://i.postimg.cc/ncKXzR5P/download-7.png" width="65" height="65" alt="SiteGround"/><br><strong>SiteGround</strong>
       </td>
     </tr>
   </tbody>
@@ -269,7 +272,7 @@
         <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
+        <img src="https://lottie.host/00d69d14-dbbc-44b1-a77a-5207bdbe9350/aV1xQK1JP7.lottie" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Llama"/><br><strong>Llama</strong>
