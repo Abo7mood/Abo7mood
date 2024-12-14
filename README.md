@@ -21,7 +21,7 @@
 
 
 
-<table>
+<table style="width:900px">
   <tr>
     <td align="center">
       <a href="https://discord.gg/tkPYxn5u4v" target="_blank">
