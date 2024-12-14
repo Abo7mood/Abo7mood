@@ -47,3 +47,166 @@
     </td>
   </tr>
 </table>
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/><br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=svelte" width="50" height="50" alt="Svelte"/><br>Svelte
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/><br>Flutter
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" alt="WordPress"/><br>WordPress
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Backend & Databases</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=bun" width="50" height="50" alt="Bun"/><br>Bun
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=trpc" width="50" height="50" alt="tRPC"/><br>tRPC
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=directus" width="50" height="50" alt="Directus"/><br>Directus
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" width="80" height="40" alt="Neo4j"/><br>Neo4j
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/><br>Firebase
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">AI & Tools</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" width="50" height="50" alt="Llama"/><br>Llama
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" width="80" height="80" alt="Gemini"/><br>Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta AI"/><br>Meta AI
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=cohere" width="50" height="50" alt="Cohere"/><br>Cohere
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Software & Tools</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender"/><br>Blender
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gimp" width="50" height="50" alt="GIMP"/><br>GIMP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="50" height="50" alt="Obsidian"/><br>Obsidian
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=audacity" width="50" height="50" alt="Audacity"/><br>Audacity
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Davinci_Resolve_17_Logo.svg" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postman_%28software%29.png/600px-Postman_%28software%29.png" width="50" height="50" alt="Postman"/><br>Postman
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
