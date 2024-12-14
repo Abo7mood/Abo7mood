@@ -9,8 +9,8 @@
 </div>
 
 <h1 align="center">Hi, I'm Nasser Almuqbil</h1>
-<p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood ![Animation - 1734184321953](https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31)</p>
-
+<p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood </p>
+![Animation - 1734184321953](https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31)
 <h3 align="center">🚀 My Work</h3>
 
 
