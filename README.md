@@ -51,7 +51,8 @@
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-<div align="center">🖥️ Programming Languages</div>
+
+## <div align="center">🖥️ Programming Languages</div>
 <div align="center">
 <table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
@@ -86,7 +87,8 @@
   </tbody>
 </table>
 </div>
-<div align="center">🌐 Web Development</div>
+
+## <div align="center">🌐 Web Development</div>
 <div align="center">
 <table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
@@ -113,7 +115,8 @@
   </tbody>
 </table>
 </div>
-<div align="center">🚀 Backend & Frameworks</div>
+
+## <div align="center">🚀 Backend & Frameworks</div>
 <div align="center">
 <table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
@@ -148,3 +151,69 @@
   </tbody>
 </table>
 </div>
+
+## <div align="center">🤖 No-Code & Low-Code Platforms</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="OutSystems"/><br><strong>OutSystems</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="ARIS"/><br><strong>ARIS</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Alfabet"/><br><strong>Alfabet</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=webflow" width="65" height="65" alt="Webflow"/><br><strong>Webflow</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=appsmith" width="65" height="65" alt="AppSmith"/><br><strong>AppSmith</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=bubble" width="65" height="65" alt="Bubble"/><br><strong>Bubble</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🔧 DevOps & Cloud</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br><strong>Docker</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br><strong>GitHub</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab"/><br><strong>GitLab</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket"/><br><strong>Bitbucket</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br><strong>Firebase</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/><br><strong>Netlify</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS"/><br><strong>AWS</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure"/><br><strong>Azure</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
