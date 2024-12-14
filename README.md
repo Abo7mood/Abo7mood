@@ -15,7 +15,7 @@
 <h2> My nickname is Abo7mood</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=850&pause=750&color=ff7f00&center=true&vCenter=true&width=435&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);🤫+Currently+Undisclosed..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=850&pause=750&color=ff7f00&center=true&vCenter=true&width=435&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);🤫+My current work?... (Now)" alt="Typing SVG" />
 </p>
 
 
