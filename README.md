@@ -280,7 +280,7 @@
         <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br><strong>Obsidian</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Office 365 Suite"/><br><strong>Office 365 Suite</strong>
+        <img src="https://github.com/user-attachments/assets/91b89f1f-8ad8-4969-b90b-1cb6ca99318f" width="65" height="65" alt="Office 365 Suite"/><br><strong>Office 365 Suite</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Cursor AI"/><br><strong>Cursor AI</strong>
