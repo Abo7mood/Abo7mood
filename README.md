@@ -252,10 +252,10 @@
   <img src="Animation - 1734183175462.gif" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Llama"/><br><strong>Llama</strong>
+        <img src="https://github.com/user-attachments/assets/269ac516-f9a0-40a4-89ac-7040c765d213" width="65" height="65" alt="Llama"/><br><strong>Llama</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="GPT"/><br><strong>GPT</strong>
+        <img src="https://i.postimg.cc/28hDwSBK/download-9.png" width="65" height="65" alt="GPT"/><br><strong>GPT</strong>
       </td>
     </tr>
   </tbody>
