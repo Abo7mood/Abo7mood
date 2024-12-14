@@ -271,7 +271,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br><strong>VS Code</strong>
       </td>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br><strong>Postman</strong>
