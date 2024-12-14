@@ -11,16 +11,20 @@
 
 
 
-<h1>Hi, I'm Nasser Almuqbil<br/>
-<h2> My nickname is Abo7mood</h2>
-  
+<h1>Hi, I'm Nasser Almuqbil<H1/>
+  <br>
+<p> My nickname is Abo7mood</p>
+  <br>
+<h1>My work<h1/>
+  <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=0080ff&center=true&vCenter=true&width=900&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);🤫+My+Current+Work+(Now)%3F+Secret!" alt="Typing SVG" />
 </p>
 
 
 
-
+<h1>My Social Media<h1/>
+  <br>
 <table>
   <tr>
     <td align="center">
