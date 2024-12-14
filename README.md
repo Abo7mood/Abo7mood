@@ -8,10 +8,16 @@
 
 </div>
 <div align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" alt="Fiverr">
-  </div>
-<h1 align="center" margin="-4px">Hi, I'm Nasser Almuqbil</h1>
-<p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood </p>
+  <!-- Double the image size using transform: scale(2) and adjust bottom margin -->
+  <img src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" 
+       alt="Fiverr" 
+       style="transform: scale(2); margin-bottom:-10px;">
+</div>
+
+<!-- Remove default top margin from h1 -->
+<h1 align="center" style="margin-top:0;">Hi, I'm Nasser Almuqbil</h1>
+
+<p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood . . .</p>
 
 <h3 align="center">🚀 My Work</h3>
 
