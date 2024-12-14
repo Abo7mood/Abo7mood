@@ -109,10 +109,10 @@
         <img src="https://skillicons.dev/icons?i=svelte" width="65" height="65" alt="Svelte"/><br><strong>Svelte</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
+        <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODUzNTMsIm5iZiI6MTczNDE4NTA1MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0MDQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMTE1YjY3MTQxYTgxZGE4ZmMwOGJiNzhiNGYzN2MzMGQ4NTBjZmJkMTgxM2M3YWEyNzMwNTVkMGI4YjBhZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6c5IES4KFu9IsB1-ztrtn7nAQyK4p-cb0CIiY-kG3dg" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
+        <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODUzNTMsIm5iZiI6MTczNDE4NTA1MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0MDQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiMjI5MTdiMzg3MjQ1YTQxZDgzZGZjN2MwNTU3Mjg4MjI0YjZmZGJiNTUyYjFkNTY2NjNiOTVhMjhkYzFlYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Rb6i-jkgQ2xoFyn4gOW62asAG2b0uLAkFpnVcq8J6Ws" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS"/><br><strong>Tailwind</strong>
@@ -206,7 +206,7 @@
         <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket"/><br><strong>Bitbucket</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br><strong>Firebase</strong>
+        <img src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODUzNTMsIm5iZiI6MTczNDE4NTA1MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0MDQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjNTk4MzQ1YWY5YTE0OTI4YTEzOTlhMjA0ZGZhMzcwYjY0ZThjNTU1NDRkOWQ0YTcwMWIxYmNjOGMzZDMwZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vEbkwMJvc7ME03_gNEzwmtJk86pjGpaAyF-DzicbDT0" width="65" height="65" alt="Firebase"/><br><strong>Firebase</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/><br><strong>Netlify</strong>
