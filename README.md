@@ -283,15 +283,15 @@
         <img src="https://github.com/user-attachments/assets/88c7b63a-759a-48fb-8828-d291e7bdedd6" width="65" height="65" alt="Office 365 Suite"/><br><strong>Office 365</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Cursor AI"/><br><strong>Cursor AI</strong>
+        <img src="https://i.postimg.cc/HxHhmbYq/download-4.jpg" width="65" height="65" alt="Cursor AI"/><br><strong>Cursor AI</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Excalidraw"/><br><strong>Excalidraw</strong>
+        <img src="https://i.postimg.cc/N0GdPBdt/download-10.png" width="65" height="65" alt="Excalidraw"/><br><strong>Excalidraw</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Meramid AI"/><br><strong>Meramid AI</strong>
+        <img src="https://i.postimg.cc/q7Y2XTYj/download-11.png" width="65" height="65" alt="Meramid AI"/><br><strong>Meramid AI</strong>
       </td>
     </tr>
   </tbody>
