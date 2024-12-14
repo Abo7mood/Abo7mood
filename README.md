@@ -10,7 +10,7 @@
 <h1 style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" 
        alt="Fiverr" 
-       style="vertical-align:middle; transform:scale(2); margin-right:10px;">
+       style="vertical-align:middle; transform:scale(2);">
   Hi, I'm Nasser Almuqbil
 </h1>
 
