@@ -11,8 +11,9 @@
 
 
 
-<h1>Hi, I'm Nasser Almuqbil <span> My nickname is Abo7mood</span>
-
+<h1>Hi, I'm Nasser Almuqbil
+   <p style="color:0d173a"> My nickname is Abo7mood</p>
+<br>
 <p>My work<p/>
 
 <p align="center">
