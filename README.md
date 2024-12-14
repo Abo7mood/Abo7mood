@@ -274,7 +274,7 @@
       <td>
      
           
-         ![Animation - 1734183175462](https://github.com/user-attachments/assets/6c1e5d6d-a4e6-450c-b2ba-e8b158fb537b)
+         ![Animation - 1734183175462](Animation - 1734183175462.gif)
 
 
          
