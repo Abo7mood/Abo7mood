@@ -166,7 +166,7 @@
         <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js"/><br><strong>Express.js</strong>
       </td>
       <td>
-        <img src="https://i.postimg.cc/sDcsZtJb/download.png" width="65" height="65" radius="4" alt="Directus"/><br><strong>Directus</strong>
+        <img src="https://i.postimg.cc/sDcsZtJb/download.png" width="65" height="65" border-radius="10px"   alt="Directus"/><br><strong>Directus</strong>
       </td>
     </tr>
     <tr>
