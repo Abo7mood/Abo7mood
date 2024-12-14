@@ -296,8 +296,8 @@
     </tr>
   </tbody>
 </table>
-</div>
-<div align="center">🎨 Design & Multimedia</div>
+  
+## <div align="center">🎨 Design & Multimedia</div>
 <div align="center">
 <table>
   <tbody>
@@ -306,7 +306,7 @@
         <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender"/><br><strong>Blender</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=gimp" width="65" height="65" alt="GIMP"/><br><strong>GIMP</strong>
+        <img src="https://i.postimg.cc/JhwkGqB2/download-5.jpg" width="65" height="65" alt="GIMP"/><br><strong>GIMP</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma"/><br><strong>Figma</strong>
@@ -315,10 +315,10 @@
         <img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop"/><br><strong>Photoshop</strong>
       </td> 
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Audacity"/><br><strong>Audacity</strong>
+        <img src="https://i.postimg.cc/fRQzdgBm/download-7.jpg" width="65" height="65" alt="Audacity"/><br><strong>Audacity</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="DaVinci Resolve"/><br><strong>DaVinci Resolve</strong>
+        <img src="https://i.postimg.cc/0Ndbrqvz/download-6.jpg" width="65" height="65" alt="DaVinci Resolve"/><br><strong>DaVinci Resolve</strong>
       </td>
     </tr>
   </tbody>
