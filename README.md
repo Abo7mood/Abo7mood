@@ -297,7 +297,7 @@
   </tbody>
 </table>
 </div>
-## <div align="center">🎨 Design & Multimedia</div>
+<div align="center">🎨 Design & Multimedia</div>
 <div align="center">
 <table>
   <tbody>
