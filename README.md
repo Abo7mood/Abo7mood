@@ -16,7 +16,7 @@
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=850&pause=750&color=ff7f00&center=true&vCenter=true&width=900&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=850&pause=100&color=00ff00&center=true&vCenter=true&width=900&lines=It's+a+secret!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=200&pause=100&color=00ff00&center=true&vCenter=true&width=900&lines=It's+a+secret!" alt="Typing SVG" />
 </p>
 
 
