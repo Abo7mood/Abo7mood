@@ -272,13 +272,13 @@
         <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
       <td>
-       <div style="width:65px; height:65px; position:relative;">
+     
           
          ![Animation - 1734183175462](https://github.com/user-attachments/assets/6c1e5d6d-a4e6-450c-b2ba-e8b158fb537b)
 
 
          
-  </div>
+
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Llama"/><br><strong>Llama</strong>
