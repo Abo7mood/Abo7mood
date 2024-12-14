@@ -179,7 +179,7 @@
         <img src="https://i.postimg.cc/x1LmVjGB/download-5.png" width="65" height="65" alt="Budibase"/><br><strong>Budibase</strong>
       </td>
       <td>
-        <img src="https://i.postimg.cc/KjKNPSXF/download-2.jpg" width="65" height="65" alt="Power Automate"/><br><strong>Power Automate</strong>
+        <img src="https://i.postimg.cc/KjKNPSXF/download-2.jpg" width="35" height="65" alt="Power Automate"/><br><strong>Power Automate</strong>
       </td>
     </tr>
     <tr>
