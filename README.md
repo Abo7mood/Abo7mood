@@ -48,148 +48,51 @@
   </tr>
 </table>
 
+
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h3 align="center">Web Development</h3>
-
+### **Design & Multimedia Tools**
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
+<table>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=svelte" width="50" height="50" alt="Svelte"/><br>Svelte
-      </td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/blender-icon.svg" width="50" alt="Blender"><br>Blender</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/gimp.png" width="50" alt="GIMP"><br>GIMP</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/davinci-resolve.png" width="50" alt="Davinci Resolve"><br>Davinci Resolve</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/audacity.png" width="50" alt="Audacity"><br>Audacity</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Backend & Databases</h3>
-
+### **Programming Languages**
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
+<table>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=bun" width="50" height="50" alt="Bun"/><br>Bun
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=directus" width="50" height="50" alt="Directus"/><br>Directus
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/><br>Firebase
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Databases</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br>C++
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" width="80" height="40" alt="Neo4j"/><br>Neo4j
-      </td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" alt="C#"><br>C#</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java"><br>Java</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python"><br>Python</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript"><br>JavaScript</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" alt="TypeScript"><br>TypeScript</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" alt="C++"><br>C++</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/dart.png" width="50" alt="Dart"><br>Dart</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">AI Tools</h3>
-
+### **Web Development**
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">Tools</th>
-    </tr>
-  </thead>
+<table>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" width="50" height="50" alt="Llama"/><br>Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/><br>GitHub
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#"/><br>C#
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Creative & Workflow Tools</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender"/><br>Blender
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gimp" width="50" height="50" alt="GIMP"/><br>GIMP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=davinci-resolve" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=audacity" width="50" height="50" alt="Audacity"/><br>Audacity
-      </td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/html-icon.svg" width="50" alt="HTML"><br>HTML</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/css-icon.svg" width="50" alt="CSS"><br>CSS</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" alt="React"><br>React</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/node-icon.svg" width="50" alt="Node.js"><br>Node.js</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/svelte.png" width="50" alt="Svelte"><br>Svelte</td>
+      <td align="center"><img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="50" alt="Flutter"><br>Flutter</td>
     </tr>
   </tbody>
 </table>
