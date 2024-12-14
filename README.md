@@ -50,34 +50,7 @@
 
 
 
-<!-- Add this style block at the top of your README or within a style tag -->
-<style>
-  table {
-    width:100%; 
-    background-color:#1a1a2e; 
-    color:white; 
-    border-radius:15px; 
-    border-spacing:10px; 
-    padding:15px;
-  }
 
-  td {
-    background-color:#16213e; 
-    border-radius:10px; 
-    padding:15px; 
-    transition: transform 0.3s, box-shadow 0.3s;
-    text-align:center;
-  }
-
-  td:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 10px rgba(255,255,255,0.2);
-  }
-
-  h1, h2, h3, h4, h5, h6, div {
-    font-family: Arial, sans-serif;
-  }
-</style>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
