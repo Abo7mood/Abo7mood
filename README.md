@@ -273,13 +273,11 @@
       </td>
       <td>
        <div style="width:65px; height:65px; position:relative;">
-    <iframe 
-      src="https://player.vimeo.com/video/1039215299?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
-      frameborder="0" 
-      allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
-      style="width:100%;height:100%;" 
-      title="DaVinci Resolve Animation">
-    </iframe>
+          
+         ![Animation - 1734183175462](https://github.com/user-attachments/assets/6c1e5d6d-a4e6-450c-b2ba-e8b158fb537b)
+
+
+         
   </div>
       </td>
       <td>
@@ -357,4 +355,3 @@
 </table>
 </div>
 
-<script src="https://player.vimeo.com/api/player.js"></script>
