@@ -274,8 +274,8 @@
       <td>
      
           
-         ![Animation - 1734183175462](Animation - 1734183175462.gif)
 
+  <img src="Animation - 1734183175462.gif" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
 
          
 
