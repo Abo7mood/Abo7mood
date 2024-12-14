@@ -23,8 +23,8 @@
 
 
 
-<p>My social media<p/>
-<table>
+<p align="center">My social media<p/>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://discord.gg/tkPYxn5u4v" target="_blank">
