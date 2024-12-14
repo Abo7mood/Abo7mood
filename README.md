@@ -52,7 +52,9 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<div align="center">## 🖥️ Programming Languages</div>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+## <div align="center">🖥️ Programming Languages</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -69,6 +71,8 @@
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
       </td>
+    </tr>
+    <tr>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br>C++
       </td>
@@ -86,7 +90,7 @@
 </table>
 </div>
 
-## 🌐 Web Development
+## <div align="center">🌐 Web Development</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -103,6 +107,8 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/><br>HTML
       </td>
+    </tr>
+    <tr>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/><br>CSS
       </td>
@@ -111,7 +117,7 @@
 </table>
 </div>
 
-## 🚀 Backend & Frameworks
+## <div align="center">🚀 Backend & Frameworks</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -128,6 +134,8 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress"/><br>WordPress
       </td>
+    </tr>
+    <tr>
       <td align="center" style="border: none;">
         <img src="/api/placeholder/65/65" width="65" height="65" alt="Directus"/><br>Directus
       </td>
@@ -142,7 +150,7 @@
 </table>
 </div>
 
-## 🤖 No-Code & Low-Code Platforms
+## <div align="center">🤖 No-Code & Low-Code Platforms</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -164,7 +172,7 @@
 </table>
 </div>
 
-## 🔧 DevOps & Cloud
+## <div align="center">🔧 DevOps & Cloud</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -181,6 +189,8 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket"/><br>Bitbucket
       </td>
+    </tr>
+    <tr>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br>Firebase
       </td>
@@ -195,90 +205,6 @@
 </table>
 </div>
 
-## 💾 Databases
+## <div align="center">💾 Databases</div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## 🤖 AI & Machine Learning
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Gemini"/><br>Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Llama"/><br>Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="GPT"/><br>GPT
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Cursor AI"/><br>Cursor AI
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## 🛠️ Development Tools
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br>VS Code
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="VS Community"/><br>VS Community
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br>Postman
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Power Automate"/><br>Power Automate
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=powerpointsvg" width="65" height="65" alt="PowerBI"/><br>PowerBI
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br>Obsidian
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## 🎨 Design & Multimedia
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender"/><br>Blender
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gimp" width="65" height="65" alt="GIMP"/><br>GIMP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="DaVinci Resolve"/><br>DaVinci Resolve
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=audacity" width="65" height="65" alt="Audacity"/><br>Audacity
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Excel Draw"/><br>Excel Draw
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<table style="background-color: black; color: white; border: none; border-
