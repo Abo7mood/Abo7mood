@@ -23,7 +23,7 @@
 
 
 
-<p align="center">My social media<p/>
+<h3 align="center">My Social Media</h3>
 <table align="center">
   <tr>
     <td align="center">
