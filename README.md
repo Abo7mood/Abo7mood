@@ -7,10 +7,12 @@
 </a>
 
 </div>
-
+<div align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" alt="Fiverr">
+  </div>
 <h1 align="center">Hi, I'm Nasser Almuqbil</h1>
 <p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood </p>
-  <img align="center" src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" alt="Fiverr">
+
 <h3 align="center">🚀 My Work</h3>
 
 
