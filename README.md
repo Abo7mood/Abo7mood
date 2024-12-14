@@ -21,8 +21,38 @@
 
 
 
-</p>
-  <a href="https://www.linkedin.com/in/nasser-almuqbil-b75374217/">Linked In</a>, <a href="https://www.fiverr.com/iabo7mood?up_rollout=true">Fiverr</a>, <a href="https://www.youtube.com/channel/UCVJxMXSH2T3eGUQKsAWZ4Mg">Youtube</a>,<a href="https://a7portfolio.netlify.app/">Website</a></h1>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://discord.gg/tkPYxn5u4v" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.fiverr.com/share/xp2Gb4" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-%232C9A3E?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCVJxMXSH2T3eGUQKsAWZ4Mg" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abo7mood/Abo7mood" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/a7-dev-b75374217/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <h2>👨‍💻 GameDeveloper:</h2>
 
