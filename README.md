@@ -7,15 +7,17 @@
 </a>
 
 </div>
-<div align="center">
-  <!-- Double the image size using transform: scale(2) and adjust bottom margin -->
-  <img src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" 
-       alt="Fiverr" 
-       style="transform: scale(2); margin-bottom:-10px;">
+<<div align="center" style="white-space:nowrap;">
+  <img 
+    src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" 
+    alt="Fiverr" 
+    style="vertical-align:middle; transform:scale(2); margin-right:10px;" 
+  />
+  <h1 style="display:inline-block; margin:0; vertical-align:middle;">
+    Hi, I'm Nasser Almuqbil
+  </h1>
 </div>
 
-<!-- Remove default top margin from h1 -->
-<h1 align="center" style="margin-top:0;">Hi, I'm Nasser Almuqbil</h1>
 
 <p align="center" style="font-size: 1.2em; color: #0d173a; margin-top: -10px;">My nickname is Abo7mood . . .</p>
 
