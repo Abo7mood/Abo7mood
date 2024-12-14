@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">🌐 My Social Media</h3>
-<table align="center" padding="4px";>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://discord.gg/tkPYxn5u4v" target="_blank">
