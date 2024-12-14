@@ -87,7 +87,7 @@
         <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart"/><br><strong>Dart</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Basic"/><br><strong>Visual Basic</strong>
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" alt="Visual Basic"/><br><strong>Visual Basic</strong>
       </td>
     </tr>
   </tbody>
@@ -128,7 +128,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br><strong>Node.js</strong>
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" alt="Node.js"/><br><strong>Node.js</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=bun" width="65" height="65" alt="Bun"/><br><strong>Bun</strong>
@@ -233,7 +233,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br><strong>MongoDB</strong>
+        <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODY0OTIsIm5iZiI6MTczNDE4NjE5MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0MjMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlYjIxMWY2YmQ2MjAxZTA4OWY5MzUyZTc3NDFjMTYxZDM4NTljNzI4MmVkZGU3YWY1OGIyOTRjNDhmM2NlMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.W_Fj0KU_NKtcuHLB1n60kyASJ1TH6S5b-i2oW450kfc" width="65" height="65" alt="MongoDB"/><br><strong>MongoDB</strong>
       </td>
     </tr>
   </tbody>
@@ -271,7 +271,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br><strong>VS Code</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br><strong>Postman</strong>
