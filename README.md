@@ -51,244 +51,98 @@
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
-## <div align="center">🖥️ Programming Languages</div>
+<div align="center">🖥️ Programming Languages</div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br>Python
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br><strong>Python</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#"/><br>C#
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#"/><br><strong>C#</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br><strong>JavaScript</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br>TypeScript
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><br><strong>TypeScript</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br><strong>C++</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/><br><strong>Java</strong>
       </td>
     </tr>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br>C++
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart"/><br><strong>Dart</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/><br>Java
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart"/><br>Dart
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=visualbasic" width="65" height="65" alt="Visual Basic"/><br>Visual Basic
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=visualbasic" width="65" height="65" alt="Visual Basic"/><br><strong>Visual Basic</strong>
       </td>
     </tr>
   </tbody>
 </table>
 </div>
-
-## <div align="center">🌐 Web Development</div>
+<div align="center">🌐 Web Development</div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br><strong>React</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter"/><br>Flutter
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter"/><br><strong>Flutter</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=svelte" width="65" height="65" alt="Svelte"/><br>Svelte
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=svelte" width="65" height="65" alt="Svelte"/><br><strong>Svelte</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/><br>HTML
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/><br>CSS
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS"/><br><strong>Tailwind</strong>
       </td>
     </tr>
   </tbody>
 </table>
 </div>
-
-## <div align="center">🚀 Backend & Frameworks</div>
+<div align="center">🚀 Backend & Frameworks</div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br>Node.js
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br><strong>Node.js</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=bun" width="65" height="65" alt="Bun"/><br>Bun
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=bun" width="65" height="65" alt="Bun"/><br><strong>Bun</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity"/><br>Unity
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity"/><br><strong>Unity</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress"/><br>WordPress
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress"/><br><strong>WordPress</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Directus"/><br>Directus
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js"/><br><strong>Express.js</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Budibase"/><br>Budibase
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Logto"/><br>Logto
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">🤖 No-Code & Low-Code Platforms</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="OutSystems"/><br>OutSystems
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="ARIS"/><br>ARIS
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Alfabet"/><br>Alfabet
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Webflow"/><br>Webflow
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">🔧 DevOps & Cloud</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br>GitHub
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Plastic SCM"/><br>Plastic SCM
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket"/><br>Bitbucket
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI"/><br><strong>FastAPI</strong>
       </td>
     </tr>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br>Firebase
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br><strong>Flask</strong>
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/><br>Netlify
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="SiteGround"/><br>SiteGround
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">💾 Databases</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">🤖 AI & Machine Learning</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Gemini"/><br>Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Llama"/><br>Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="GPT"/><br>GPT
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Cursor AI"/><br>Cursor AI
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">🛠️ Development Tools</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br>VS Code
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="VS Community"/><br>VS Community
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br>Postman
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Power Automate"/><br>Power Automate
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=powerpointsvg" width="65" height="65" alt="PowerBI"/><br>PowerBI
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br>Obsidian
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## <div align="center">🎨 Design & Multimedia</div>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender"/><br>Blender
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gimp" width="65" height="65" alt="GIMP"/><br>GIMP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="DaVinci Resolve"/><br>DaVinci Resolve
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=audacity" width="65" height="65" alt="Audacity"/><br>Audacity
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="/api/placeholder/65/65" width="65" height="65" alt="Excel Draw"/><br>Excel Draw
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django"/><br><strong>Django</strong>
       </td>
     </tr>
   </tbody>
