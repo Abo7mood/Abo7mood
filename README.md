@@ -272,7 +272,7 @@
         <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
       <td>
-        <img src="https://lottie.host/00d69d14-dbbc-44b1-a77a-5207bdbe9350/aV1xQK1JP7.lottie" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
+        <img src="https://streamable.com/e/4jae42?" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Llama"/><br><strong>Llama</strong>
