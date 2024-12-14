@@ -246,7 +246,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
+        <img src="https://i.postimg.cc/26BMT0Kf/download-8.png" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
       <td>
   <img src="Animation - 1734183175462.gif" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
