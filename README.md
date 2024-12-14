@@ -208,9 +208,6 @@
 <table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
   <tbody>
     <tr>
-
-     
- 
       <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
         <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
@@ -232,9 +229,7 @@
       </td>
       <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br><strong>Postman</strong>
-      </td>
-    
-   
+      </td>  
       <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
         <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br><strong>Obsidian</strong>
       </td>
@@ -259,9 +254,7 @@
       </td>
       <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
         <img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop"/><br><strong>Photoshop</strong>
-      </td>
-    
-    
+      </td>    
     </tr>
   </tbody>
 </table>
