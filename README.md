@@ -52,8 +52,6 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
 ## <div align="center">🖥️ Programming Languages</div>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -207,4 +205,92 @@
 
 ## <div align="center">💾 Databases</div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br>MongoDB
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🤖 AI & Machine Learning</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="Gemini"/><br>Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="Llama"/><br>Llama
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="GPT"/><br>GPT
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="Cursor AI"/><br>Cursor AI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🛠️ Development Tools</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br>VS Code
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="VS Community"/><br>VS Community
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br>Postman
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="Power Automate"/><br>Power Automate
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=powerpointsvg" width="65" height="65" alt="PowerBI"/><br>PowerBI
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br>Obsidian
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🎨 Design & Multimedia</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender"/><br>Blender
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gimp" width="65" height="65" alt="GIMP"/><br>GIMP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="DaVinci Resolve"/><br>DaVinci Resolve
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=audacity" width="65" height="65" alt="Audacity"/><br>Audacity
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="/api/placeholder/65/65" width="65" height="65" alt="Excel Draw"/><br>Excel Draw
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
