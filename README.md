@@ -216,4 +216,116 @@
 </table>
 </div>
 
+(Previous sections remain the same, continuing from Databases)
 
+## <div align="center">💾 Databases</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/><br><strong>MongoDB</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL"/><br><strong>MySQL</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite"/><br><strong>SQLite</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis"/><br><strong>Redis</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=dynamodb" width="65" height="65" alt="DynamoDB"/><br><strong>DynamoDB</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🤖 AI & Machine Learning</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow"/><br><strong>TensorFlow</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch"/><br><strong>PyTorch</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65" alt="Scikit-Learn"/><br><strong>Scikit-Learn</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV"/><br><strong>OpenCV</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=kaggle" width="65" height="65" alt="Kaggle"/><br><strong>Kaggle</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🛠️ Development Tools</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br><strong>VS Code</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/><br><strong>Postman</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65" alt="PowerShell"/><br><strong>PowerShell</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash"/><br><strong>Bash</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian"/><br><strong>Obsidian</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🎨 Design & Multimedia</div>
+<div align="center">
+<table style="width:100%; background-color:#1a1a2e; color:white; border-radius:15px; border-spacing:10px; padding:15px;">
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender"/><br><strong>Blender</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=gimp" width="65" height="65" alt="GIMP"/><br><strong>GIMP</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma"/><br><strong>Figma</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop"/><br><strong>Photoshop</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=xd" width="65" height="65" alt="Adobe XD"/><br><strong>Adobe XD</strong>
+      </td>
+      <td align="center" style="background-color:#16213e; border-radius:10px; padding:15px; transition: transform 0.3s;">
+        <img src="https://skillicons.dev/icons?i=ae" width="65" height="65" alt="After Effects"/><br><strong>After Effects</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
