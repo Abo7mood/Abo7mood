@@ -21,7 +21,7 @@
 
 
 
-<table style="width:900px">
+<table>
   <tr>
     <td align="center">
       <a href="https://discord.gg/tkPYxn5u4v" target="_blank">
@@ -43,14 +43,13 @@
         <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+     <td align="center">
       <a href="https://www.linkedin.com/in/a7-dev-b75374217/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
   </tr>
+
 </table>
 
 
