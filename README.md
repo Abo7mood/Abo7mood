@@ -40,14 +40,6 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <p style="color: #444; margin-top: 12px;">Completed comprehensive training in OutSystems development, demonstrating proficiency in rapid application development and low-code solutions.</p>
         </div>
       </td>
-      <td>
-        <div class="certificate-card" style="padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 10px; min-width: 300px;">
-          <h3 style="color: #0080ff; margin-bottom: 8px;">Your Certificate Title</h3>
-          <h4 style="color: #666; margin: 4px 0;">From Organization</h4>
-          <h4 style="color: #888; margin: 4px 0;">Date</h4>
-          <p style="color: #444; margin-top: 12px;">Description of your achievement and what you learned.</p>
-        </div>
-      </td>
     </tr>
   </tbody>
 </table>
