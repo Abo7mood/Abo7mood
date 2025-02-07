@@ -47,9 +47,431 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
   </tbody>
 </table>
 </div>
+## <div align="center">📜 Certificates & Achievements</div>
 
-
-
+<div align="center">
+<table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Advanced Presentations for Consultants | Teams Edition</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Analyst Academy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-08-28</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Alfabet Configuration Essentials</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-31</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Alfabet Portfolio Management Essentials</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-31</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Alfabet Workflow Configuration</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-11-06</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Alfabet Fastlane Basic</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-08-24</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Alfabet Portfolio Management Basic</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-08-24</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">ARIS Administrator Essentials</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-09-04</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">ARIS Administrator Basic</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-10</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">ARIS Modeler Basic</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-10</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">ARIS Modeler Essentials</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-09-26</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">AHHIL Consultathon</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">King Saud University</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participation</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">Not specified</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Aha! Product Management Professional Certificate</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Aha!</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-09</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Product Management: Building a Product Roadmap</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">LinkedIn Learning</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-08</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Product Management: Building a Product Strategy</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">LinkedIn Learning</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-06</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Product Management: Customer Development</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">LinkedIn Learning</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-09</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+     <tr>
+       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Product Management First Steps</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">LinkedIn Learning</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-02</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Technical Product Management</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">LinkedIn Learning</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-06</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Game Developer</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Unity</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-19, valid until 2027-12-19</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">CS50x: CS50's Introduction to Computer Science</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">HarvardX (Harvard University)</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-01-03</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certified Presentations Professional (CPP)</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Analyst Academy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-09-25</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Associate Reactive Developer (OutSystems 11)</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-11-07</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">ARIS Academy Graduation</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Software AG</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Unity Certified Associate: Programmer</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Unity</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-30, valid until 2027-06-30</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">شهادة حضور (Certificate of Attendance)</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">نادي قوقل للطلبة (Google Student Club)</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participating</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10-25</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">شهادة مشاركة (Certificate of Participation)</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">هاكاثون إنجاز (Injaz Hackathon)</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participating</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-12-12</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C#</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-08-07</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Introduction to CSS</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-12</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Introduction to HTML</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-09</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+           <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">JavaScript</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-26</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+            <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Prepare for Outsystems Reactive Developer Certification</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-08-14</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Software Architecture & Design of Modern Large Scale Systems</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-24</h6>
+        </div>
+        <a href="#" download>
+          <img src="#" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+<td style="width: 20%; padding: 15px; background: white; border-radius: 12px;"> </td>
+<td style="width: 20%; padding: 15px; background: white; border-radius: 12px;"> </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 <h3 align="center">🌐 My Social Media</h3>
 <table align="center">
   <tr>
