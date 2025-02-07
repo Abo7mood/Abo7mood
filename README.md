@@ -368,32 +368,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C#</h4>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-08-07</h6>
-        </div>
-        <a href="https://github.com/user-attachments/files/18710238/sololearn_c.pdf" download>
-          <img src="https://github.com/user-attachments/assets/f0b9951b-105e-44e2-b60e-73a89d1bbb50" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Introduction to CSS</h4>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-12</h6>
-        </div>
-        <a href="https://github.com/user-attachments/files/18710237/sololearn_css.pdf" download>
-          <img src="https://github.com/user-attachments/assets/c136a502-02de-4b81-bb03-9f15087dd3a1" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
+     
     </tr>
     <tr>
       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
@@ -457,6 +432,34 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         </div>
         <a href="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" download>
           <img src="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C#</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-08-07</h6>
+        </div>
+        <a href="https://github.com/user-attachments/files/18710238/sololearn_c.pdf" download>
+          <img src="https://github.com/user-attachments/assets/f0b9951b-105e-44e2-b60e-73a89d1bbb50" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Introduction to CSS</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-12</h6>
+        </div>
+        <a href="https://github.com/user-attachments/files/18710237/sololearn_css.pdf" download>
+          <img src="https://github.com/user-attachments/assets/c136a502-02de-4b81-bb03-9f15087dd3a1" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
