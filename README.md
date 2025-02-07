@@ -32,12 +32,17 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 <table>
   <tbody>
     <tr>
-      <td>
+      <td style="width: 60%;">
         <div class="certificate-card" style="padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 10px; min-width: 300px;">
           <h3 style="color: #0080ff; margin-bottom: 8px;">OutSystems Associate Developer</h3>
           <h4 style="color: #666; margin: 4px 0;">From OutSystems</h4>
           <h4 style="color: #888; margin: 4px 0;">4/15/2019</h4>
           <p style="color: #444; margin-top: 12px;">Completed comprehensive training in OutSystems development, demonstrating proficiency in rapid application development and low-code solutions.</p>
+        </div>
+      </td>
+      <td style="width: 40%;">
+        <div style="padding: 10px;">
+          <img src="/api/placeholder/300/200" alt="OutSystems Certificate" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         </div>
       </td>
     </tr>
