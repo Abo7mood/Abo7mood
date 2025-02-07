@@ -34,11 +34,6 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
       </a>
     </td>
     <td align="center">
-      <a href="https://www.fiverr.com/share/xp2Gb4" target="_blank">
-        <img src="https://img.shields.io/badge/💼-Fiverr-%232C9A3E?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.youtube.com/channel/UCVJxMXSH2T3eGUQKsAWZ4Mg" target="_blank">
         <img src="https://img.shields.io/badge/🎥-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
       </a>
