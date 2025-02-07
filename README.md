@@ -58,29 +58,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 
 
 
-<style>
-.certificate-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 36px 0 rgba(31, 38, 135, 0.15);
-}
 
-a:hover img {
-  transform: scale(1.02);
-}
-
-a:hover .download-overlay {
-  opacity: 1 !important;
-}
-
-a:hover div[style*="position: absolute"] {
-  opacity: 1 !important;
-}
-
-a:hover div[style*="transform: translateY(20px)"] {
-  transform: translateY(0) !important;
-  opacity: 1 !important;
-}
-</style>
 
 <h3 align="center">🌐 My Social Media</h3>
 <table align="center">
