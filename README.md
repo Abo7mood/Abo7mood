@@ -174,7 +174,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">AHHIL Consultathon</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">King Saud University</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participation</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">Not specified</h6>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">03-07-2024</h6>
         </div>
         <a href="https://github.com/user-attachments/files/18710251/CERTIFICATE.OF.PARTICIPATION.AHIL.Consultathon.pdf" download>
           <img src="https://github.com/user-attachments/assets/e95f41a1-1f6f-4ff8-aa8b-0d05d0b6d0bb" 
@@ -427,7 +427,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">IELTS 6.0</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">IELTS</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">11/12/2022</h6>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">11-12-2024</h6>
         </div>
         <a href="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" download>
           <img src="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" 
