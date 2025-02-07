@@ -25,6 +25,35 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=0080ff&center=true&vCenter=true&width=900&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);🤫+My+Current+Work+(Now)%3F+Secret!" alt="Typing SVG" />
 </p>
 
+
+
+## <div align="center">📜 Certificates & Achievements</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div class="certificate-card" style="padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 10px; min-width: 300px;">
+          <h3 style="color: #0080ff; margin-bottom: 8px;">OutSystems Associate Developer</h3>
+          <h4 style="color: #666; margin: 4px 0;">From OutSystems</h4>
+          <h4 style="color: #888; margin: 4px 0;">4/15/2019</h4>
+          <p style="color: #444; margin-top: 12px;">Completed comprehensive training in OutSystems development, demonstrating proficiency in rapid application development and low-code solutions.</p>
+        </div>
+      </td>
+      <td>
+        <div class="certificate-card" style="padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 10px; min-width: 300px;">
+          <h3 style="color: #0080ff; margin-bottom: 8px;">Your Certificate Title</h3>
+          <h4 style="color: #666; margin: 4px 0;">From Organization</h4>
+          <h4 style="color: #888; margin: 4px 0;">Date</h4>
+          <p style="color: #444; margin-top: 12px;">Description of your achievement and what you learned.</p>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 <h3 align="center">🌐 My Social Media</h3>
 <table align="center">
   <tr>
