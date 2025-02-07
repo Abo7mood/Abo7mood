@@ -25,28 +25,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=0080ff&center=true&vCenter=true&width=900&lines=🎮+Game+Developer+(Past);💻+Full-Stack+Developer+(Past);🤫+My+Current+Work+(Now)%3F+Secret!" alt="Typing SVG" />
 </p>
 
-## <div align="center">📜 Certificates & Achievements</div>
-<div align="center">
-<table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">IELTS 6.0</h4>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">IELTS</h5>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">11/12/2022</h6>
-        </div>
-        <a href="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" download>
-          <img src="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+
 ## <div align="center">📜 Certificates & Achievements</div>
 
 <div align="center">
@@ -466,12 +445,25 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
-<td style="width: 20%; padding: 15px; background: white; border-radius: 12px;"> </td>
-<td style="width: 20%; padding: 15px; background: white; border-radius: 12px;"> </td>
+  <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">IELTS 6.0</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">IELTS</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">11/12/2022</h6>
+        </div>
+        <a href="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" download>
+          <img src="https://github.com/user-attachments/assets/7bbb9969-9fcc-4b2a-99b4-b9c6435756cf" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
 </div>
+
+
 <h3 align="center">🌐 My Social Media</h3>
 <table align="center">
   <tr>
