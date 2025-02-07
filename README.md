@@ -29,27 +29,38 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 
 ## <div align="center">📜 Certificates & Achievements</div>
 <div align="center">
-<table>
+<table style="background: linear-gradient(145deg, rgba(255,255,255,0.9) 0%, rgba(240,247,255,0.9) 100%); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.18); margin: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);">
   <tbody>
     <tr>
-      <td style="width: 60%;">
-        <div class="certificate-card" style="padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 10px; min-width: 300px;">
-          <h3 style="color: #0080ff; margin-bottom: 8px;">OutSystems Associate Developer</h3>
-          <h4 style="color: #666; margin: 4px 0;">From OutSystems</h4>
-          <h4 style="color: #888; margin: 4px 0;">4/15/2019</h4>
-          <p style="color: #444; margin-top: 12px;">Completed comprehensive training in OutSystems development, demonstrating proficiency in rapid application development and low-code solutions.</p>
+      <td style="width: 60%; padding: 20px;">
+        <div class="certificate-card" style="padding: 25px; border-radius: 12px; background: white; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1); margin: 10px; min-width: 300px; transition: all 0.3s ease;">
+          <div style="border-left: 4px solid #0080ff; padding-left: 15px;">
+            <h3 style="color: #0080ff; margin-bottom: 12px; font-size: 1.5em; font-weight: 600;">OutSystems Associate Developer</h3>
+            <h4 style="color: #666; margin: 8px 0; font-size: 1.1em; display: flex; align-items: center;">
+              <span style="display: inline-block; width: 6px; height: 6px; background: #0080ff; border-radius: 50%; margin-right: 8px;"></span>
+              From OutSystems
+            </h4>
+            <h4 style="color: #888; margin: 8px 0; font-size: 1em; display: flex; align-items: center;">
+              <span style="display: inline-block; width: 6px; height: 6px; background: #0080ff; border-radius: 50%; margin-right: 8px;"></span>
+              4/15/2019
+            </h4>
+          </div>
+          <p style="color: #444; margin-top: 20px; line-height: 1.6; padding: 0 15px;">Completed comprehensive training in OutSystems development, demonstrating proficiency in rapid application development and low-code solutions.</p>
         </div>
       </td>
-      <td style="width: 40%;">
-        <div style="padding: 10px;">
-          <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+      <td style="width: 40%; padding: 20px;">
+        <div style="position: relative; transition: all 0.3s ease;">
+          <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download 
+             style="display: block; position: relative; overflow: hidden; border-radius: 12px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15); transition: all 0.3s ease;">
+            <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,128,255,0.1); opacity: 0; transition: all 0.3s ease; display: flex; align-items: center; justify-content: center;">
+              <div style="background: rgba(255,255,255,0.9); padding: 10px 20px; border-radius: 30px; transform: translateY(20px); opacity: 0; transition: all 0.3s ease;">
+                <span style="color: #0080ff; font-weight: 500;">Download Certificate</span>
+              </div>
+            </div>
             <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                  alt="OutSystems Certificate" 
-                 style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); cursor: pointer;">
+                 style="width: 100%; display: block; transform: scale(1); transition: all 0.3s ease;">
           </a>
-          <div style="text-align: center; margin-top: 10px;">
-            <small style="color: #666;">Click image to download certificate</small>
-          </div>
         </div>
       </td>
     </tr>
@@ -57,6 +68,29 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 </table>
 </div>
 
+<style>
+.certificate-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 36px 0 rgba(31, 38, 135, 0.15);
+}
+
+a:hover img {
+  transform: scale(1.02);
+}
+
+a:hover .download-overlay {
+  opacity: 1 !important;
+}
+
+a:hover div[style*="position: absolute"] {
+  opacity: 1 !important;
+}
+
+a:hover div[style*="transform: translateY(20px)"] {
+  transform: translateY(0) !important;
+  opacity: 1 !important;
+}
+</style>
 
 <h3 align="center">🌐 My Social Media</h3>
 <table align="center">
