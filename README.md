@@ -44,6 +44,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <div style="padding: 10px;">
           <img src="/api/placeholder/300/200" alt="OutSystems Certificate" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
           [Advanced Presentations for Consultants .pdf](https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf)
+![CleanShot 2025-02-07 at 19 14 14@2x](https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62)
 
         </div>
       </td>
