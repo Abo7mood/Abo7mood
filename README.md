@@ -435,9 +435,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Software Architecture & Design of Modern Large Scale Systems</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Udemy</h5>
