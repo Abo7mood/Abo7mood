@@ -367,8 +367,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td>
-     
+      </td>     
     </tr>
     <tr>
       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
