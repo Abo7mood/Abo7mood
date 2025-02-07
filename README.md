@@ -26,6 +26,9 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 </p>
 
 
+
+
+
 ## <div align="center">📜 Certificates & Achievements</div>
 
 <div align="center">
@@ -39,8 +42,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-08-28</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710264/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/960e3c85-b266-471d-84b6-10d231ebf473" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -52,8 +55,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-31</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710263/Alfabet.Configuration.Essentials.pdf" download>
+          <img src="https://github.com/user-attachments/assets/608573d1-1368-427d-ad90-771f1e53c7f7" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -65,8 +68,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-31</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710262/Alfabet.Managemnt.Portofolio.Certification.pdf" download>
+          <img src="https://github.com/user-attachments/assets/2a29ddd4-803c-4def-bf5d-1f409cef5aef" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -78,8 +81,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-11-06</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710261/Alfabet.Workflow.Configuration.pdf" download>
+          <img src="https://github.com/user-attachments/assets/74344777-2ecb-4290-a258-05a1a817cbfd" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -91,8 +94,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-08-24</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710260/Alphabet.fastlance.certification.pdf" download>
+          <img src="https://github.com/user-attachments/assets/d95909e2-29e5-4593-9dbd-e7fc968497f3" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -106,8 +109,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-08-24</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710259/Alphabet.portfolio.certification.pdf" download>
+          <img src="https://github.com/user-attachments/assets/1e7d6a46-4922-44c4-84dc-7fcfe7b8bf1c" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -119,8 +122,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-09-04</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710258/ARIS.Administrator.Advanced.pdf" download>
+          <img src="https://github.com/user-attachments/assets/6ee7ac2a-5e39-4479-9f69-c1ce81d2bb6b" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -132,8 +135,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-10</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710257/ARIS.Administrator.Basic.pdf" download>
+          <img src="https://github.com/user-attachments/assets/3e748a99-ec94-47a6-a96d-40b30b5c00b4" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -145,8 +148,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-10</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710256/ARIS.Basic.modeler.pdf" download>
+          <img src="https://github.com/user-attachments/assets/6e659d74-e4b9-49a9-a422-a334d43ae359" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -158,8 +161,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-09-26</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710253/ARIS.Modeler.Advanced.pdf" download>
+          <img src="https://github.com/user-attachments/assets/14f1bba0-f49f-4f17-93a2-5fcab2373d92" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -173,8 +176,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participation</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">Not specified</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710251/CERTIFICATE.OF.PARTICIPATION.AHIL.Consultathon.pdf" download>
+          <img src="https://github.com/user-attachments/assets/e95f41a1-1f6f-4ff8-aa8b-0d05d0b6d0bb" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -186,8 +189,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-09</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710250/CertificateOfCompletion_Aha.Product.Management.Professional.Certificate.2.pdf" download>
+          <img src="https://github.com/user-attachments/assets/f75f8f8b-0d01-43ca-9f64-cd7c3a0666ad" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -199,8 +202,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-08</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710249/CertificateOfCompletion_Product.Management.Building.a.Product.Roadmap.1.pdf" download>
+          <img src="https://github.com/user-attachments/assets/0fc6b5bd-8a5e-4f02-b244-be61bc155a4a" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -212,8 +215,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-06</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710248/CertificateOfCompletion_Product.Management.Building.a.Product.Strategy.pdf" download>
+          <img src="https://github.com/user-attachments/assets/e75d65d0-5f43-4796-8ef0-34d29e2ec2bb" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -225,8 +228,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-09</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710247/CertificateOfCompletion_Product.Management.Customer.Development.pdf" download>
+          <img src="https://github.com/user-attachments/assets/d57e8531-7d12-48b7-85eb-c38d37ed22f9" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -240,8 +243,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-02</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710246/CertificateOfCompletion_Product.Management.First.Steps.2.pdf" download>
+          <img src="https://github.com/user-attachments/assets/9e472f08-b4eb-4632-ad75-18be36613a53" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -253,8 +256,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-06</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710245/CertificateOfCompletion_Technical.Product.Management.1.pdf" download>
+          <img src="https://github.com/user-attachments/assets/5f7e3a01-57aa-49d3-b0e0-48db72d2cf02" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -266,8 +269,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-12-19, valid until 2027-12-19</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710244/Game.Developer.certificate.pdf" download>
+          <img src="https://github.com/user-attachments/assets/6c1005d3-eacf-40a0-89a5-2b5bd5114db6" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -279,8 +282,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-01-03</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710243/HarvardX.CS50x.Certificate._.edX.PDF" download>
+          <img src="https://github.com/user-attachments/assets/1639d2f0-0a5c-4ddb-8638-139a13aa8984" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -292,8 +295,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-09-25</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710242/Nasser.Almuqbil.-.Certificate.pdf" download>
+          <img src="https://github.com/user-attachments/assets/7ae44e24-0b20-48ad-9b43-b7320d6b814c" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -307,8 +310,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-11-07</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710241/Nasser.Almuqbil.OutSystems.Certificate.pdf" download>
+          <img src="https://github.com/user-attachments/assets/64ebd1fb-2cef-47fc-b58e-5c502f1db5d1" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -320,8 +323,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710240/Nasser.Almuqbil_ARIS.-.Graduation.Certificate.pdf" download>
+          <img src="https://github.com/user-attachments/assets/696bc6d6-b12a-4c6f-ac9a-3687248504f7" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -333,8 +336,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Professional Certificate</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-30, valid until 2027-06-30</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710232/UnityCertifiedAssociateProgrammer_Badge20240701-7-yod7t1.pdf" download>
+          <img src="https://github.com/user-attachments/assets/ad9631aa-d053-4637-8374-51ec446788ad" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -346,8 +349,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participating</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10-25</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710230/-.pdf" download>
+          <img src="https://github.com/user-attachments/assets/78e14ba8-1932-408e-800c-29cc66e31f2e" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -359,14 +362,12 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participating</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-12-12</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710231/-6.pdf" download>
+          <img src="https://github.com/user-attachments/assets/3556e883-4dca-42f6-bea7-ccba8c5fe5f4" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
-    </tr>
-    <tr>
       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C#</h4>
@@ -374,8 +375,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-08-07</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710238/sololearn_c.pdf" download>
+          <img src="https://github.com/user-attachments/assets/f0b9951b-105e-44e2-b60e-73a89d1bbb50" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -387,12 +388,14 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-12</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710237/sololearn_css.pdf" download>
+          <img src="https://github.com/user-attachments/assets/c136a502-02de-4b81-bb03-9f15087dd3a1" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
+    </tr>
+    <tr>
       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Introduction to HTML</h4>
@@ -400,8 +403,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-09</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710236/sololearn_html.pdf" download>
+          <img src="https://github.com/user-attachments/assets/6048d4c5-22e5-4460-846b-b8f428dbfa7e" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -413,8 +416,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03-26</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710235/sololearn_js.pdf" download>
+          <img src="https://github.com/user-attachments/assets/3a59cfb6-43f9-4e95-9074-843a7a387119" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -426,8 +429,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-08-14</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710239/prepare.for.outsystems.pdf" download>
+          <img src="https://github.com/user-attachments/assets/69127e1f-e2e2-4452-bbb4-514269eaba75" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -441,8 +444,8 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2024-06-24</h6>
         </div>
-        <a href="#" download>
-          <img src="#" 
+        <a href="https://github.com/user-attachments/files/18710233/system.architecture.pdf" download>
+          <img src="https://github.com/user-attachments/assets/fdd62f25-b588-4e98-9dc4-d52ff7e2e094" 
                alt="Certificate" 
                style="width: 100%; border-radius: 8px;">
         </a>
