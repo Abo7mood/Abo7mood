@@ -35,12 +35,11 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
     <tr>
       <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">• OutSystems</h4>
-          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• Certification Of Compleition</h4>
-             <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• 4/15/2019</h4>
+          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate Name: OutSystems Associate</h3>
+          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">Certificate Provider: OutSystems</h4>
+          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">Certificate Type:  Certification Of Compleition</h4>
+             <h4 style="color: #888; margin: 4px 0; font-size: 12px;">Certificate Date: 4/15/2019</h4>
         </div>
-        <p style="color: #444; margin: 10px 0; font-size: 12px; line-height: 1.4;">Completed OutSystems development training.</p>
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
