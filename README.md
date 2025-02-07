@@ -370,36 +370,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
   </tbody>
 </table>
 </div>
-## <div align="center">📜 Certificates & Achievements</div>
-<div align="center">
-<table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">• OutSystems</h4>
-          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• 4/15/2019</h4>
-        </div>
-        <p style="color: #444; margin: 10px 0; font-size: 12px; line-height: 1.4;">Completed OutSystems development training.</p>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate 2</h3>
-          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">• Organization</h4>
-          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• Date</h4>
-        </div>
-        <p style="color: #444; margin: 10px 0; font-size: 12px; line-height: 1.4;">Description</p>
-        <img src="/api/placeholder/200/150" alt="Certificate" style="width: 100%; border-radius: 8px;">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 </div>
 
 
@@ -419,43 +390,6 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
     </td>
   </tr>
 </table>
-
-
-
-Certificates Section
-
-## <div align="center">📜 Certificates & Achievements</div>
-<div align="center">
-<table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">• OutSystems</h4>
-          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• 4/15/2019</h4>
-        </div>
-        <p style="color: #444; margin: 10px 0; font-size: 12px; line-height: 1.4;">Completed OutSystems development training.</p>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h3 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate 2</h3>
-          <h4 style="color: #666; margin: 4px 0; font-size: 14px;">• Organization</h4>
-          <h4 style="color: #888; margin: 4px 0; font-size: 12px;">• Date</h4>
-        </div>
-        <p style="color: #444; margin: 10px 0; font-size: 12px; line-height: 1.4;">Description</p>
-        <img src="/api/placeholder/200/150" alt="Certificate" style="width: 100%; border-radius: 8px;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 ## <div align="center">🖥️ Programming Languages</div>
