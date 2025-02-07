@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
 <table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -43,10 +43,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -56,10 +56,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -69,10 +69,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -82,10 +82,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -95,79 +95,12 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-    </tr>
-     <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
     </tr>
      <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -177,10 +110,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -190,10 +123,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -203,10 +136,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -216,10 +149,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -229,79 +162,12 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-    </tr>
-     <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
-        </a>
-      </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
-        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
-             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
-        </div>
-        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
-          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
-               alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
     </tr>
      <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -311,10 +177,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -324,10 +190,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -337,10 +203,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -350,10 +216,10 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
@@ -363,7 +229,141 @@ https://github.com/user-attachments/assets/6b094291-c3c5-49d3-b43a-e802cdc336d5
         <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
           <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
                alt="Certificate" 
-               style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;">
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
+        </a>
+      </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px; border:">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">OutSystems Associate</h3>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OutSystems</h4>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Certification Of Compleition</h4>
+             <h6 style="color: #888; margin: 4px 0; font-size: 12px;">4/15/2019</h4>
+        </div>
+        <a href="https://github.com/user-attachments/files/18709271/Advanced.Presentations.for.Consultants.pdf" download>
+          <img src="https://github.com/user-attachments/assets/391b13ee-8001-4aeb-a376-b5022448fc62" 
+               alt="Certificate" 
+               style="width: 100%; border-radius: 8px; border:">
         </a>
       </td>
     </tr>
